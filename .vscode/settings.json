@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "qlabel": "cpp",
+        "qhboxlayout": "cpp",
+        "qwidget": "cpp",
+        "qpushbutton": "cpp",
+        "qlineedit": "cpp",
+        "qfiledialog": "cpp"
+    }
+}

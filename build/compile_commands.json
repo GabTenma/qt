@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/user/qt/build/1",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/1/1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/1/1_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/1/1_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/1",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/1/1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/1.dir/main.cpp.o -c /home/user/qt/1/main.cpp",
+  "file": "/home/user/qt/1/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/2",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/2/2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2.dir/2_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/2/2_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/2/2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/2",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/2/2_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2.dir/main.cpp.o -c /home/user/qt/2/main.cpp",
+  "file": "/home/user/qt/2/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/3",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/3/3_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/3.dir/3_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/3/3_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/3/3_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/3",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/3/3_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/3.dir/main.cpp.o -c /home/user/qt/3/main.cpp",
+  "file": "/home/user/qt/3/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/4",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/4/4_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/4.dir/4_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/4/4_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/4/4_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/4",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/4/4_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/4.dir/main.cpp.o -c /home/user/qt/4/main.cpp",
+  "file": "/home/user/qt/4/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/4",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/4/4_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/4.dir/CustomWidget.cpp.o -c /home/user/qt/4/CustomWidget.cpp",
+  "file": "/home/user/qt/4/CustomWidget.cpp"
+},
+{
+  "directory": "/home/user/qt/build/5",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/5/5_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/5.dir/5_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/5/5_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/5/5_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/5",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/5/5_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/5.dir/main.cpp.o -c /home/user/qt/5/main.cpp",
+  "file": "/home/user/qt/5/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/6",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/6/6_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/6.dir/6_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/6/6_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/6/6_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/6",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/6/6_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/6.dir/main.cpp.o -c /home/user/qt/6/main.cpp",
+  "file": "/home/user/qt/6/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/7",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/7/7_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/7.dir/7_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/7/7_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/7/7_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/7",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/7/7_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/7.dir/main.cpp.o -c /home/user/qt/7/main.cpp",
+  "file": "/home/user/qt/7/main.cpp"
+},
+{
+  "directory": "/home/user/qt/build/8",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/8/8_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/8.dir/8_autogen/mocs_compilation.cpp.o -c /home/user/qt/build/8/8_autogen/mocs_compilation.cpp",
+  "file": "/home/user/qt/build/8/8_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/user/qt/build/8",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/user/qt/build/8/8_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/8.dir/main.cpp.o -c /home/user/qt/8/main.cpp",
+  "file": "/home/user/qt/8/main.cpp"
+}
+]

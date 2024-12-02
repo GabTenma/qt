@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/qt-labs.dir/main.cpp.o -o qt-labs 
