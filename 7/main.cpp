@@ -5,6 +5,7 @@
 #include <QMenuBar>
 #include <QFileDialog>
 #include <QTextStream>
+#include <QVBoxLayout>
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
@@ -35,11 +36,10 @@ int main(int argc, char *argv[]) {
         }
     });
 
-    /*
-    !!!!!!! 
-    НУЖНО ДОБАВИТЬ LAYOUT НАПОДОБИЕ ЗАДАНИЯ 2 ЧТОБЫ ВСЕ ЭЛЕМЕНТЫ НЕ ЛЕЖАЛИ В ЛЕВОМ ВЕРХНЕМ УГЛУ
-    !!!!!!!
-    */
+    QVBoxLayout *layout = new QVBoxLayout;
+    layout->addWidget(menuBar);
+    layout->addWidget(textEdit);
+    window.setLayout(layout);
    
     window.show();                 // Отобразите окно
 

@@ -328,8 +328,80 @@
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h \
   /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h \
-  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QComboBox \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcombobox.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qvalidator.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qregularexpression.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLineEdit \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMessageBox \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
 
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmessagebox.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMessageBox:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qpen.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextcursor.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlineedit.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLineEdit:
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qabstractitemmodel.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyle.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qvalidator.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qstyleoption.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractitemdelegate.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qcombobox.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QComboBox:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlabel.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLabel:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qicon.h:
 
@@ -348,6 +420,8 @@
 /usr/include/c++/11/bits/align.h:
 
 /usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qpixmap.h:
 
@@ -399,6 +473,8 @@
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qcursor.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qregularexpression.h:
+
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qsize.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h:
@@ -412,6 +488,8 @@
 /usr/include/c++/11/ctime:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject_impl.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout:
 
 /usr/include/c++/11/bits/stl_multimap.h:
 
@@ -479,6 +557,8 @@
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextoption.h:
+
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/c++/11/ext/new_allocator.h:
@@ -544,6 +624,8 @@
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
 /usr/include/c++/11/cstdlib:
+
+/usr/include/x86_64-linux-gnu/qt5/QtGui/qtextformat.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qstringlist.h:
 
@@ -619,9 +701,13 @@
 
 /usr/include/c++/11/algorithm:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h:
+
 /usr/include/c++/11/backward/binders.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qrubberband.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qnumeric.h:
 
@@ -717,6 +803,8 @@
 
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabbar.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
@@ -760,6 +848,8 @@
 /usr/include/c++/11/bits/cpp_type_traits.h:
 
 /usr/include/pthread.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
@@ -863,6 +953,8 @@
 
 /usr/include/c++/11/bits/exception_ptr.h:
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractspinbox.h:
+
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic_cxx11.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qpair.h:
@@ -906,6 +998,8 @@
 /usr/include/c++/11/bits/ios_base.h:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h:
 
 /usr/include/c++/11/system_error:
 

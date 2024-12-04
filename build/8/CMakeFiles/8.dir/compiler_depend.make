@@ -347,8 +347,18 @@
   /usr/include/x86_64-linux-gnu/qt5/QtCore/qfiledevice.h \
   /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdialog.h \
   /usr/include/x86_64-linux-gnu/qt5/QtCore/QTextStream \
-  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h
+  /usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h \
+  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
 
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qtextstream.h:
 
@@ -455,6 +465,8 @@
 /usr/include/c++/11/ctime:
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qobject_impl.h:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QVBoxLayout:
 
 /usr/include/c++/11/bits/stl_multimap.h:
 
@@ -625,6 +637,8 @@
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/c++/11/algorithm:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h:
 
 /usr/include/c++/11/backward/binders.h:
 
@@ -961,6 +975,8 @@
 /usr/include/c++/11/bits/ios_base.h:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h:
 
 /usr/include/c++/11/system_error:
 
